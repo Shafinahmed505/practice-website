@@ -1,0 +1,165 @@
+.headers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 130px 230px;
+    background-image: linear-gradient(360deg, #2b2828 0%, rgba(63, 49, 49, 0) 100%), url(/files/images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+}
+.content{
+    text-align: center;
+    background-image: url('files/images/donation14.webp');
+}
+
+.header-title{
+    font-size: 75px;
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
+
+.header-description{
+    font-size: 16px;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.donate-today{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 130px 230px;
+    text-align: center;
+    /* margin: 130px auto; */
+    background-color: blanchedalmond;
+}
+
+.section-title{
+    font-size: 50px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+    background-position: right;
+}
+
+.section-description{
+    margin-bottom: 20px;
+    padding: 40px;
+    font-size: 20px;
+    text-align: center;
+    color: #707070;
+}
+
+.taka{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    display: flex;
+    gap: 25px;
+    font-size: 25px
+
+}
+
+
+.donate-form{
+    padding: 0 230px;
+}
+
+.donate-plan{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 130px 230px;
+    text-align: center;
+}
+
+.contribute-one{
+    margin: 130px 180px;
+    background-image: url('/files/images/donation8.jpg');
+    background-position: right;
+    background-repeat: no-repeat;
+    margin-right: 0 150px;
+    background-size: contain;
+    font-size: 18px;
+}
+
+.contribute-two{
+    margin: 130px 180px;
+}
+
+.my-updates{
+    margin: 130px 180px;
+    text-align: center;
+}
+
+.footer{
+    padding: 100px 180px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(45, 36, 54);
+}
+
+.div{
+    display: block;
+}
+
+.btn-primary{
+    text-align: center;
+    margin: auto;
+    display: flex;
+    padding: 10px 20px;
+    background-color: #ff6c6c;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 211px;
+}
+
+.donate-plan-container{
+    display: flex;
+    gap: 35px;
+    justify-content: space-around;
+}
+
+.donate-food{
+    background-color: aqua;
+}
+
+.donate-shelter{
+    background-color: pink;
+}
+
+.donate-education{
+    background-color: blanchedalmond;
+}
+
+.their-lives1{
+    font-size: 29px;
+    text-align: left;
+    font-weight: bold;
+    margin-right: 311px;
+
+}
+
+.help{
+    text-align: left;
+    margin-right: 711px;
+}
+
+/* .help{ 
+    background-position: right;
+    margin-right: 0 150px;
+    background-size: 45px;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    margin-bottom: 151px;
+    border: 2px;
+/*/
